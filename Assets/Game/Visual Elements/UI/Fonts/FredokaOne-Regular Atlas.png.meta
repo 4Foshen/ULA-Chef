@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: c99f70c24713b624d84913a98b3a83c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5937264722426901226
+    second: FredokaOne-Regular Atlas_0
+  - first:
+      213: 8979051957341473275
+    second: FredokaOne-Regular Atlas_1
+  - first:
+      213: 5098675852824606794
+    second: FredokaOne-Regular Atlas_2
+  - first:
+      213: -1633370347114831942
+    second: FredokaOne-Regular Atlas_3
+  - first:
+      213: -1013476599607780138
+    second: FredokaOne-Regular Atlas_4
+  - first:
+      213: -2466747858599600905
+    second: FredokaOne-Regular Atlas_5
+  - first:
+      213: 4603163881145139582
+    second: FredokaOne-Regular Atlas_6
+  - first:
+      213: 8086761734225430895
+    second: FredokaOne-Regular Atlas_7
+  - first:
+      213: -6690126804432798769
+    second: FredokaOne-Regular Atlas_8
+  - first:
+      213: -4169660281552468246
+    second: FredokaOne-Regular Atlas_9
+  - first:
+      213: 8902768161776072742
+    second: FredokaOne-Regular Atlas_10
+  - first:
+      213: -4467124154230908101
+    second: FredokaOne-Regular Atlas_11
+  - first:
+      213: -1140179524149982134
+    second: FredokaOne-Regular Atlas_12
+  - first:
+      213: 2072680562379413177
+    second: FredokaOne-Regular Atlas_13
+  - first:
+      213: -2552219526712919042
+    second: FredokaOne-Regular Atlas_14
+  - first:
+      213: 7725280167408828496
+    second: FredokaOne-Regular Atlas_15
+  - first:
+      213: 5591882219342450265
+    second: FredokaOne-Regular Atlas_16
+  - first:
+      213: -4962435903459830182
+    second: FredokaOne-Regular Atlas_17
+  - first:
+      213: -1946989394966595048
+    second: FredokaOne-Regular Atlas_18
+  - first:
+      213: 3198859591318544028
+    second: FredokaOne-Regular Atlas_19
+  - first:
+      213: 865238822386093677
+    second: FredokaOne-Regular Atlas_20
+  - first:
+      213: -9145923442417590999
+    second: FredokaOne-Regular Atlas_21
+  - first:
+      213: 9116143030758111703
+    second: FredokaOne-Regular Atlas_22
+  - first:
+      213: 4339298368700531258
+    second: FredokaOne-Regular Atlas_23
+  - first:
+      213: 6823473724967971008
+    second: FredokaOne-Regular Atlas_24
+  - first:
+      213: 7634250960519268680
+    second: FredokaOne-Regular Atlas_25
+  - first:
+      213: -5120255153742369909
+    second: FredokaOne-Regular Atlas_26
+  - first:
+      213: 8659679283892100432
+    second: FredokaOne-Regular Atlas_27
+  - first:
+      213: -3461036946106592587
+    second: FredokaOne-Regular Atlas_28
+  - first:
+      213: -1872681667732819159
+    second: FredokaOne-Regular Atlas_29
+  - first:
+      213: 6932311157584467208
+    second: FredokaOne-Regular Atlas_30
+  - first:
+      213: -8749185062158182100
+    second: FredokaOne-Regular Atlas_31
+  - first:
+      213: 9110049786339148434
+    second: FredokaOne-Regular Atlas_32
+  - first:
+      213: 4647200177463544462
+    second: FredokaOne-Regular Atlas_33
+  - first:
+      213: -8032590757141911002
+    second: FredokaOne-Regular Atlas_34
+  - first:
+      213: -5704929894260377631
+    second: FredokaOne-Regular Atlas_35
+  - first:
+      213: -4395859921766250366
+    second: FredokaOne-Regular Atlas_36
+  - first:
+      213: -568275211265920536
+    second: FredokaOne-Regular Atlas_37
+  - first:
+      213: 7220089371738670924
+    second: FredokaOne-Regular Atlas_38
+  - first:
+      213: 10582148192502932
+    second: FredokaOne-Regular Atlas_39
+  - first:
+      213: 2909185473537034696
+    second: FredokaOne-Regular Atlas_40
+  - first:
+      213: -3191184315584746859
+    second: FredokaOne-Regular Atlas_41
+  - first:
+      213: 8112203160597804738
+    second: FredokaOne-Regular Atlas_42
+  - first:
+      213: 1738343630231491708
+    second: FredokaOne-Regular Atlas_43
+  - first:
+      213: -2619266414419422148
+    second: FredokaOne-Regular Atlas_44
+  - first:
+      213: -5438924198135655339
+    second: FredokaOne-Regular Atlas_45
+  - first:
+      213: 2655536441484864887
+    second: FredokaOne-Regular Atlas_46
+  - first:
+      213: -124324292730863081
+    second: FredokaOne-Regular Atlas_47
+  - first:
+      213: 4758736505093291305
+    second: FredokaOne-Regular Atlas_48
+  - first:
+      213: -4630591403653772806
+    second: FredokaOne-Regular Atlas_49
+  - first:
+      213: -7651624076302245445
+    second: FredokaOne-Regular Atlas_50
+  - first:
+      213: -6097988734092773018
+    second: FredokaOne-Regular Atlas_51
+  - first:
+      213: 5059240836704928640
+    second: FredokaOne-Regular Atlas_52
+  - first:
+      213: 422248083725891936
+    second: FredokaOne-Regular Atlas_53
+  - first:
+      213: 5933127774341278765
+    second: FredokaOne-Regular Atlas_54
+  - first:
+      213: 4363916953601756081
+    second: FredokaOne-Regular Atlas_55
+  - first:
+      213: -6407027573785647048
+    second: FredokaOne-Regular Atlas_56
+  - first:
+      213: -4006590499126618723
+    second: FredokaOne-Regular Atlas_57
+  - first:
+      213: 2888191329700842938
+    second: FredokaOne-Regular Atlas_58
+  - first:
+      213: -3062708437543181072
+    second: FredokaOne-Regular Atlas_59
+  - first:
+      213: 2334835092954541086
+    second: FredokaOne-Regular Atlas_60
+  - first:
+      213: -8055627723548969289
+    second: FredokaOne-Regular Atlas_61
+  - first:
+      213: -6807833173928336795
+    second: FredokaOne-Regular Atlas_62
+  - first:
+      213: 5144613141412039056
+    second: FredokaOne-Regular Atlas_63
+  - first:
+      213: -8836175041527101134
+    second: FredokaOne-Regular Atlas_64
+  - first:
+      213: -1136380855522124704
+    second: FredokaOne-Regular Atlas_65
+  - first:
+      213: -7124742016826550374
+    second: FredokaOne-Regular Atlas_66
+  - first:
+      213: -4212163237292362800
+    second: FredokaOne-Regular Atlas_67
+  - first:
+      213: 1972094630239555101
+    second: FredokaOne-Regular Atlas_68
+  - first:
+      213: -1965366870476563521
+    second: FredokaOne-Regular Atlas_69
+  - first:
+      213: 443199175279157947
+    second: FredokaOne-Regular Atlas_70
+  - first:
+      213: -354629690879866969
+    second: FredokaOne-Regular Atlas_71
+  - first:
+      213: 1498895933971975678
+    second: FredokaOne-Regular Atlas_72
+  - first:
+      213: -7729084399246986210
+    second: FredokaOne-Regular Atlas_73
+  - first:
+      213: -162943120818804198
+    second: FredokaOne-Regular Atlas_74
+  - first:
+      213: 7501440255965426557
+    second: FredokaOne-Regular Atlas_75
+  - first:
+      213: 605050082285456612
+    second: FredokaOne-Regular Atlas_76
+  - first:
+      213: -9076922276464806049
+    second: FredokaOne-Regular Atlas_77
+  - first:
+      213: 3251409801522500176
+    second: FredokaOne-Regular Atlas_78
+  - first:
+      213: -146950010155120521
+    second: FredokaOne-Regular Atlas_79
+  - first:
+      213: -8535235802017334457
+    second: FredokaOne-Regular Atlas_80
+  - first:
+      213: 797154008754618458
+    second: FredokaOne-Regular Atlas_81
+  - first:
+      213: -6186209198241502027
+    second: FredokaOne-Regular Atlas_82
+  - first:
+      213: -3898425390911034225
+    second: FredokaOne-Regular Atlas_83
+  - first:
+      213: 3042484144890137647
+    second: FredokaOne-Regular Atlas_84
+  - first:
+      213: 6303230174757468201
+    second: FredokaOne-Regular Atlas_85
+  - first:
+      213: 5578817938016859754
+    second: FredokaOne-Regular Atlas_86
+  - first:
+      213: -3863963211944169327
+    second: FredokaOne-Regular Atlas_87
+  - first:
+      213: 6517228147203317596
+    second: FredokaOne-Regular Atlas_88
+  - first:
+      213: 2020819894869128887
+    second: FredokaOne-Regular Atlas_89
+  - first:
+      213: -8723141302595240438
+    second: FredokaOne-Regular Atlas_90
+  - first:
+      213: -4167256454182913491
+    second: FredokaOne-Regular Atlas_91
+  - first:
+      213: -7842854706565990543
+    second: FredokaOne-Regular Atlas_92
+  - first:
+      213: -4825069367747010298
+    second: FredokaOne-Regular Atlas_93
+  - first:
+      213: -8237628109068848220
+    second: FredokaOne-Regular Atlas_94
+  - first:
+      213: 3641323484627978170
+    second: FredokaOne-Regular Atlas_95
+  - first:
+      213: -4282624841492125206
+    second: FredokaOne-Regular Atlas_96
+  - first:
+      213: 7111653286455223913
+    second: FredokaOne-Regular Atlas_97
+  - first:
+      213: 8383218905588014660
+    second: FredokaOne-Regular Atlas_98
+  - first:
+      213: -7739749875586711509
+    second: FredokaOne-Regular Atlas_99
+  - first:
+      213: -5142849273913305407
+    second: FredokaOne-Regular Atlas_100
+  - first:
+      213: 2142536326173820318
+    second: FredokaOne-Regular Atlas_101
+  - first:
+      213: 4856312931220871116
+    second: FredokaOne-Regular Atlas_102
+  - first:
+      213: -6832956837942023356
+    second: FredokaOne-Regular Atlas_103
+  - first:
+      213: 9042052234184479952
+    second: FredokaOne-Regular Atlas_104
+  - first:
+      213: -1027569792590183358
+    second: FredokaOne-Regular Atlas_105
+  - first:
+      213: 1766086061905459043
+    second: FredokaOne-Regular Atlas_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1947
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d494221399a9da0800000000000000
+      internalID: -5937264722426901226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1947
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94d11ae200c9c70800000000000000
+      internalID: 8979051957341473275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1947
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f8789ca222c640800000000000000
+      internalID: 5098675852824606794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1947
+        width: 111
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5091c25a1559e0800000000000000
+      internalID: -1633370347114831942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1947
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc153cf6686fe1f0800000000000000
+      internalID: -1013476599607780138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1941
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc17b954e954cdd0800000000000000
+      internalID: -2466747858599600905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1961
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71809a4929b1ef30800000000000000
+      internalID: 4603163881145139582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1710
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698ab7a3f2f93070800000000000000
+      internalID: 8086761734225430895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1710
+        width: 118
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbb67ffd15e723a0800000000000000
+      internalID: -6690126804432798769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1710
+        width: 118
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68204d0146226c0800000000000000
+      internalID: -4169660281552468246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1699
+        width: 102
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628f158697cfc8b70800000000000000
+      internalID: 8902768161776072742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1699
+        width: 121
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdf73ef369102c0800000000000000
+      internalID: -4467124154230908101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1699
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ccdd283c44d20f0800000000000000
+      internalID: -1140179524149982134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1698
+        width: 109
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b65b7d6df3a3cc10800000000000000
+      internalID: 2072680562379413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1697
+        width: 120
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf579dcd1b49cd0800000000000000
+      internalID: -2552219526712919042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1837
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05006c8c165b53b60800000000000000
+      internalID: 7725280167408828496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1837
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecabd504b5a9d40800000000000000
+      internalID: 5591882219342450265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1838
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56d1a186d2e12bb0800000000000000
+      internalID: -4962435903459830182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1838
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a309bf577eaf4e0800000000000000
+      internalID: -1946989394966595048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1645
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e94ea99d1a46c20800000000000000
+      internalID: 3198859591318544028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1645
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e433eef12f10c00800000000000000
+      internalID: 865238822386093677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1644
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d18c71617231180800000000000000
+      internalID: -9145923442417590999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1478
+        width: 147
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d97dfd79cb038e70800000000000000
+      internalID: 9116143030758111703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1478
+        width: 113
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c3d030e8483c30800000000000000
+      internalID: 4339298368700531258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1566
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c86de65339d1be50800000000000000
+      internalID: 6823473724967971008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1510
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8498fe3fcce42f960800000000000000
+      internalID: 7634250960519268680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1508
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba2d1e01331f8b0800000000000000
+      internalID: -5120255153742369909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1508
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d92318d6c5d2870800000000000000
+      internalID: 8659679283892100432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1508
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b250d02c3de7ffc0800000000000000
+      internalID: -3461036946106592587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1494
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9233661f1f5e206e0800000000000000
+      internalID: -1872681667732819159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1536
+        width: 167
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059c44d444843060800000000000000
+      internalID: 6932311157584467208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1451
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2958e78a86a49680800000000000000
+      internalID: -8749185062158182100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1522
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924ed873066d6e70800000000000000
+      internalID: 9110049786339148434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1405
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ac8d180fb2e7040800000000000000
+      internalID: 4647200177463544462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1278
+        width: 122
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a687ec341868090800000000000000
+      internalID: -8032590757141911002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1388
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77a18bc7404d0b0800000000000000
+      internalID: -5704929894260377631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1319
+        width: 162
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2880fb001b4cef2c0800000000000000
+      internalID: -4395859921766250366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1272
+        width: 109
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1b5d9c4b41d18f0800000000000000
+      internalID: -568275211265920536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1268
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c478e09a709e23460800000000000000
+      internalID: 7220089371738670924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1314
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49489ff5868952000800000000000000
+      internalID: 10582148192502932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1240
+        width: 149
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c6ef46c08f5820800000000000000
+      internalID: 2909185473537034696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1237
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ae5c8c5c2a6b3d0800000000000000
+      internalID: -3191184315584746859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1235
+        width: 74
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6bb355bc5549070800000000000000
+      internalID: 8112203160597804738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1322
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d2815256df1810800000000000000
+      internalID: 1738343630231491708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1306
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c345b64d21f76abd0800000000000000
+      internalID: -2619266414419422148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1215
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55419d9224f0584b0800000000000000
+      internalID: -5438924198135655339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1035
+        width: 63
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6fcae25c5ad420800000000000000
+      internalID: 2655536441484864887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1032
+        width: 63
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71243d6e6bf464ef0800000000000000
+      internalID: -124324292730863081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1208
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92df4c573ad6a0240800000000000000
+      internalID: 4758736505093291305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1120
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94d3df6a5dcbfb0800000000000000
+      internalID: -4630591403653772806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 999
+        width: 147
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ad215178ffc590800000000000000
+      internalID: -7651624076302245445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1058
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669f01c0e879f5ba0800000000000000
+      internalID: -6097988734092773018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1059
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08382f86cb8063640800000000000000
+      internalID: 5059240836704928640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1047
+        width: 112
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069329d15602cd500800000000000000
+      internalID: 422248083725891936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1155
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cad949644b65250800000000000000
+      internalID: 5933127774341278765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1086
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbccb8295fbf8c30800000000000000
+      internalID: 4363916953601756081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1032
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838af561e5aa517a0800000000000000
+      internalID: -6407027573785647048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1032
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955a1b3b2bb568c0800000000000000
+      internalID: -4006590499126618723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 976
+        width: 39
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8e2a46bae41820800000000000000
+      internalID: 2888191329700842938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 986
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a5a927e21f75d0800000000000000
+      internalID: -3062708437543181072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 931
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ceba48520076020800000000000000
+      internalID: 2334835092954541086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 984
+        width: 110
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b633171449a43090800000000000000
+      internalID: -8055627723548969289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 766
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a1e93cc7b581a0800000000000000
+      internalID: -6807833173928336795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 804
+        width: 105
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099cba01566556740800000000000000
+      internalID: 5144613141412039056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 772
+        width: 75
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ca94ad999f5580800000000000000
+      internalID: -8836175041527101134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 793
+        width: 105
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9c09f1a3ca30f0800000000000000
+      internalID: -1136380855522124704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 794
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97d0ca52e4df1d90800000000000000
+      internalID: -7124742016826550374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 792
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ba394ad36b85c0800000000000000
+      internalID: -4212163237292362800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 795
+        width: 112
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e42ea1e994e5b10800000000000000
+      internalID: 1972094630239555101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 745
+        width: 121
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb5ce78e3d99b4e0800000000000000
+      internalID: -1965366870476563521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 745
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a24f3d4f862600800000000000000
+      internalID: 443199175279157947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 700
+        width: 121
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78c40dc2a141bf0800000000000000
+      internalID: -354629690879866969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 795
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd4da319e52dc410800000000000000
+      internalID: 1498895933971975678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 598
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14bed770b6ccb490800000000000000
+      internalID: -7729084399246986210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 517
+        width: 102
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a600d481c1dbdf0800000000000000
+      internalID: -162943120818804198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 523
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7372a02b287a1860800000000000000
+      internalID: 7501440255965426557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 517
+        width: 73
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec02f918d1956800800000000000000
+      internalID: 605050082285456612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 532
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573c79f74b480280800000000000000
+      internalID: -9076922276464806049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 558
+        width: 120
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d8fedcf35f1d20800000000000000
+      internalID: 3251409801522500176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 505
+        width: 72
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778c6fc8ebde5fdf0800000000000000
+      internalID: -146950010155120521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 506
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7f8a7240cc8980800000000000000
+      internalID: -8535235802017334457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 508
+        width: 75
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500913f85f001b00800000000000000
+      internalID: 797154008754618458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 511
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcaf88928b262aa0800000000000000
+      internalID: -6186209198241502027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 505
+        width: 111
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c626ff2c206e9c0800000000000000
+      internalID: -3898425390911034225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 507
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c4fe2c533193a20800000000000000
+      internalID: 3042484144890137647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 561
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92831ffa272997750800000000000000
+      internalID: 6303230174757468201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 272
+        width: 179
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6672165b51fb6d40800000000000000
+      internalID: 5578817938016859754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 275
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f3ee4ee1706ac0800000000000000
+      internalID: -3863963211944169327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 275
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f1b3a5878d17a50800000000000000
+      internalID: 6517228147203317596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 270
+        width: 31
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b677b4dcf46b0c10800000000000000
+      internalID: 2020819894869128887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 273
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eb545d33d21f680800000000000000
+      internalID: -8723141302595240438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 275
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3970855eea26c0800000000000000
+      internalID: -4167256454182913491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 330
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17732269235982390800000000000000
+      internalID: -7842854706565990543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 270
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60122de69f8e90db0800000000000000
+      internalID: -4825069367747010298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 274
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3bd2f21e01ead80800000000000000
+      internalID: -8237628109068848220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 274
+        width: 125
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7c98daa64988230800000000000000
+      internalID: 3641323484627978170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 326
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae92990a56f0194c0800000000000000
+      internalID: -4282624841492125206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 275
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96627e02cfaa1b260800000000000000
+      internalID: 7111653286455223913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 202
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e99edad2d275470800000000000000
+      internalID: 8383218905588014660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c74fbe72e69490800000000000000
+      internalID: -7739749875586711509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 39
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6950755dde0a8b0800000000000000
+      internalID: -5142849273913305407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 39
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9506ffdf61dbbd10800000000000000
+      internalID: 2142536326173820318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 39
+        width: 152
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75e8f81e6156340800000000000000
+      internalID: 4856312931220871116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 39
+        width: 151
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ba3ec55f57c21a0800000000000000
+      internalID: -6832956837942023356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 39
+        width: 138
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d713a992db7d70800000000000000
+      internalID: 9042052234184479952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 39
+        width: 136
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2448dbac7b65db1f0800000000000000
+      internalID: -1027569792590183358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredokaOne-Regular Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 39
+        width: 75
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b4aa8ae5628810800000000000000
+      internalID: 1766086061905459043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FredokaOne-Regular Atlas_0: -5937264722426901226
+      FredokaOne-Regular Atlas_1: 8979051957341473275
+      FredokaOne-Regular Atlas_10: 8902768161776072742
+      FredokaOne-Regular Atlas_100: -5142849273913305407
+      FredokaOne-Regular Atlas_101: 2142536326173820318
+      FredokaOne-Regular Atlas_102: 4856312931220871116
+      FredokaOne-Regular Atlas_103: -6832956837942023356
+      FredokaOne-Regular Atlas_104: 9042052234184479952
+      FredokaOne-Regular Atlas_105: -1027569792590183358
+      FredokaOne-Regular Atlas_106: 1766086061905459043
+      FredokaOne-Regular Atlas_11: -4467124154230908101
+      FredokaOne-Regular Atlas_12: -1140179524149982134
+      FredokaOne-Regular Atlas_13: 2072680562379413177
+      FredokaOne-Regular Atlas_14: -2552219526712919042
+      FredokaOne-Regular Atlas_15: 7725280167408828496
+      FredokaOne-Regular Atlas_16: 5591882219342450265
+      FredokaOne-Regular Atlas_17: -4962435903459830182
+      FredokaOne-Regular Atlas_18: -1946989394966595048
+      FredokaOne-Regular Atlas_19: 3198859591318544028
+      FredokaOne-Regular Atlas_2: 5098675852824606794
+      FredokaOne-Regular Atlas_20: 865238822386093677
+      FredokaOne-Regular Atlas_21: -9145923442417590999
+      FredokaOne-Regular Atlas_22: 9116143030758111703
+      FredokaOne-Regular Atlas_23: 4339298368700531258
+      FredokaOne-Regular Atlas_24: 6823473724967971008
+      FredokaOne-Regular Atlas_25: 7634250960519268680
+      FredokaOne-Regular Atlas_26: -5120255153742369909
+      FredokaOne-Regular Atlas_27: 8659679283892100432
+      FredokaOne-Regular Atlas_28: -3461036946106592587
+      FredokaOne-Regular Atlas_29: -1872681667732819159
+      FredokaOne-Regular Atlas_3: -1633370347114831942
+      FredokaOne-Regular Atlas_30: 6932311157584467208
+      FredokaOne-Regular Atlas_31: -8749185062158182100
+      FredokaOne-Regular Atlas_32: 9110049786339148434
+      FredokaOne-Regular Atlas_33: 4647200177463544462
+      FredokaOne-Regular Atlas_34: -8032590757141911002
+      FredokaOne-Regular Atlas_35: -5704929894260377631
+      FredokaOne-Regular Atlas_36: -4395859921766250366
+      FredokaOne-Regular Atlas_37: -568275211265920536
+      FredokaOne-Regular Atlas_38: 7220089371738670924
+      FredokaOne-Regular Atlas_39: 10582148192502932
+      FredokaOne-Regular Atlas_4: -1013476599607780138
+      FredokaOne-Regular Atlas_40: 2909185473537034696
+      FredokaOne-Regular Atlas_41: -3191184315584746859
+      FredokaOne-Regular Atlas_42: 8112203160597804738
+      FredokaOne-Regular Atlas_43: 1738343630231491708
+      FredokaOne-Regular Atlas_44: -2619266414419422148
+      FredokaOne-Regular Atlas_45: -5438924198135655339
+      FredokaOne-Regular Atlas_46: 2655536441484864887
+      FredokaOne-Regular Atlas_47: -124324292730863081
+      FredokaOne-Regular Atlas_48: 4758736505093291305
+      FredokaOne-Regular Atlas_49: -4630591403653772806
+      FredokaOne-Regular Atlas_5: -2466747858599600905
+      FredokaOne-Regular Atlas_50: -7651624076302245445
+      FredokaOne-Regular Atlas_51: -6097988734092773018
+      FredokaOne-Regular Atlas_52: 5059240836704928640
+      FredokaOne-Regular Atlas_53: 422248083725891936
+      FredokaOne-Regular Atlas_54: 5933127774341278765
+      FredokaOne-Regular Atlas_55: 4363916953601756081
+      FredokaOne-Regular Atlas_56: -6407027573785647048
+      FredokaOne-Regular Atlas_57: -4006590499126618723
+      FredokaOne-Regular Atlas_58: 2888191329700842938
+      FredokaOne-Regular Atlas_59: -3062708437543181072
+      FredokaOne-Regular Atlas_6: 4603163881145139582
+      FredokaOne-Regular Atlas_60: 2334835092954541086
+      FredokaOne-Regular Atlas_61: -8055627723548969289
+      FredokaOne-Regular Atlas_62: -6807833173928336795
+      FredokaOne-Regular Atlas_63: 5144613141412039056
+      FredokaOne-Regular Atlas_64: -8836175041527101134
+      FredokaOne-Regular Atlas_65: -1136380855522124704
+      FredokaOne-Regular Atlas_66: -7124742016826550374
+      FredokaOne-Regular Atlas_67: -4212163237292362800
+      FredokaOne-Regular Atlas_68: 1972094630239555101
+      FredokaOne-Regular Atlas_69: -1965366870476563521
+      FredokaOne-Regular Atlas_7: 8086761734225430895
+      FredokaOne-Regular Atlas_70: 443199175279157947
+      FredokaOne-Regular Atlas_71: -354629690879866969
+      FredokaOne-Regular Atlas_72: 1498895933971975678
+      FredokaOne-Regular Atlas_73: -7729084399246986210
+      FredokaOne-Regular Atlas_74: -162943120818804198
+      FredokaOne-Regular Atlas_75: 7501440255965426557
+      FredokaOne-Regular Atlas_76: 605050082285456612
+      FredokaOne-Regular Atlas_77: -9076922276464806049
+      FredokaOne-Regular Atlas_78: 3251409801522500176
+      FredokaOne-Regular Atlas_79: -146950010155120521
+      FredokaOne-Regular Atlas_8: -6690126804432798769
+      FredokaOne-Regular Atlas_80: -8535235802017334457
+      FredokaOne-Regular Atlas_81: 797154008754618458
+      FredokaOne-Regular Atlas_82: -6186209198241502027
+      FredokaOne-Regular Atlas_83: -3898425390911034225
+      FredokaOne-Regular Atlas_84: 3042484144890137647
+      FredokaOne-Regular Atlas_85: 6303230174757468201
+      FredokaOne-Regular Atlas_86: 5578817938016859754
+      FredokaOne-Regular Atlas_87: -3863963211944169327
+      FredokaOne-Regular Atlas_88: 6517228147203317596
+      FredokaOne-Regular Atlas_89: 2020819894869128887
+      FredokaOne-Regular Atlas_9: -4169660281552468246
+      FredokaOne-Regular Atlas_90: -8723141302595240438
+      FredokaOne-Regular Atlas_91: -4167256454182913491
+      FredokaOne-Regular Atlas_92: -7842854706565990543
+      FredokaOne-Regular Atlas_93: -4825069367747010298
+      FredokaOne-Regular Atlas_94: -8237628109068848220
+      FredokaOne-Regular Atlas_95: 3641323484627978170
+      FredokaOne-Regular Atlas_96: -4282624841492125206
+      FredokaOne-Regular Atlas_97: 7111653286455223913
+      FredokaOne-Regular Atlas_98: 8383218905588014660
+      FredokaOne-Regular Atlas_99: -7739749875586711509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

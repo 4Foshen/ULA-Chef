@@ -1,0 +1,2886 @@
+fileFormatVersion: 2
+guid: 6f74ac87a44e6714caeb30eaebee0b02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2999620240884433001
+    second: Blazma-Regular Atlas_0
+  - first:
+      213: 4299184641810578004
+    second: Blazma-Regular Atlas_1
+  - first:
+      213: 4925706972694718297
+    second: Blazma-Regular Atlas_2
+  - first:
+      213: -8838376746002631639
+    second: Blazma-Regular Atlas_3
+  - first:
+      213: 7462947961272190281
+    second: Blazma-Regular Atlas_4
+  - first:
+      213: 6197606810670595623
+    second: Blazma-Regular Atlas_5
+  - first:
+      213: 7275270350327077400
+    second: Blazma-Regular Atlas_6
+  - first:
+      213: -4055847283296934069
+    second: Blazma-Regular Atlas_7
+  - first:
+      213: -1712991382670924417
+    second: Blazma-Regular Atlas_8
+  - first:
+      213: -5794071494611534399
+    second: Blazma-Regular Atlas_9
+  - first:
+      213: -181165298583226523
+    second: Blazma-Regular Atlas_10
+  - first:
+      213: -3773375017414761418
+    second: Blazma-Regular Atlas_11
+  - first:
+      213: 3266323531817086878
+    second: Blazma-Regular Atlas_12
+  - first:
+      213: 610035588405400132
+    second: Blazma-Regular Atlas_13
+  - first:
+      213: 8054092174371969162
+    second: Blazma-Regular Atlas_14
+  - first:
+      213: -5000517366129537578
+    second: Blazma-Regular Atlas_15
+  - first:
+      213: 2808621971947798075
+    second: Blazma-Regular Atlas_16
+  - first:
+      213: -3074682014690429658
+    second: Blazma-Regular Atlas_17
+  - first:
+      213: -1957899754561803409
+    second: Blazma-Regular Atlas_18
+  - first:
+      213: 771180231228100022
+    second: Blazma-Regular Atlas_19
+  - first:
+      213: 3360897092496704544
+    second: Blazma-Regular Atlas_20
+  - first:
+      213: -6145688003038390820
+    second: Blazma-Regular Atlas_21
+  - first:
+      213: 4696617686374311715
+    second: Blazma-Regular Atlas_22
+  - first:
+      213: 8108384017501280430
+    second: Blazma-Regular Atlas_23
+  - first:
+      213: -5256131299297452053
+    second: Blazma-Regular Atlas_24
+  - first:
+      213: -2615303325930901939
+    second: Blazma-Regular Atlas_25
+  - first:
+      213: 4506226047674386454
+    second: Blazma-Regular Atlas_26
+  - first:
+      213: -1141984334834240029
+    second: Blazma-Regular Atlas_27
+  - first:
+      213: 1219096616543295367
+    second: Blazma-Regular Atlas_28
+  - first:
+      213: -3417425145982796632
+    second: Blazma-Regular Atlas_29
+  - first:
+      213: 8365020165068120937
+    second: Blazma-Regular Atlas_30
+  - first:
+      213: 8343505528253904862
+    second: Blazma-Regular Atlas_31
+  - first:
+      213: -6252115815419989317
+    second: Blazma-Regular Atlas_32
+  - first:
+      213: 5454985309388289532
+    second: Blazma-Regular Atlas_33
+  - first:
+      213: -5562903626395404142
+    second: Blazma-Regular Atlas_34
+  - first:
+      213: -7081963680084435636
+    second: Blazma-Regular Atlas_35
+  - first:
+      213: -3796869262650359780
+    second: Blazma-Regular Atlas_36
+  - first:
+      213: -4990600826769450374
+    second: Blazma-Regular Atlas_37
+  - first:
+      213: 8498717122686262353
+    second: Blazma-Regular Atlas_38
+  - first:
+      213: -5398854100064438061
+    second: Blazma-Regular Atlas_39
+  - first:
+      213: 6600612156502696931
+    second: Blazma-Regular Atlas_40
+  - first:
+      213: -7386085418676561739
+    second: Blazma-Regular Atlas_41
+  - first:
+      213: 8911026075436744939
+    second: Blazma-Regular Atlas_42
+  - first:
+      213: 5197447555130771656
+    second: Blazma-Regular Atlas_43
+  - first:
+      213: -333109051410827523
+    second: Blazma-Regular Atlas_44
+  - first:
+      213: -9204821848894783808
+    second: Blazma-Regular Atlas_45
+  - first:
+      213: -6714546605238957288
+    second: Blazma-Regular Atlas_46
+  - first:
+      213: -336350992196160508
+    second: Blazma-Regular Atlas_47
+  - first:
+      213: 1308696562823479485
+    second: Blazma-Regular Atlas_48
+  - first:
+      213: 5210519690775037462
+    second: Blazma-Regular Atlas_49
+  - first:
+      213: -3838914553000798417
+    second: Blazma-Regular Atlas_50
+  - first:
+      213: -490122393258407666
+    second: Blazma-Regular Atlas_51
+  - first:
+      213: 4705449278137913860
+    second: Blazma-Regular Atlas_52
+  - first:
+      213: -5406759112300870705
+    second: Blazma-Regular Atlas_53
+  - first:
+      213: 6950171092989937530
+    second: Blazma-Regular Atlas_54
+  - first:
+      213: -5117760154433267047
+    second: Blazma-Regular Atlas_55
+  - first:
+      213: -7861032501892536174
+    second: Blazma-Regular Atlas_56
+  - first:
+      213: 6111419895727291928
+    second: Blazma-Regular Atlas_57
+  - first:
+      213: -1242415963221201355
+    second: Blazma-Regular Atlas_58
+  - first:
+      213: -3962632488052870337
+    second: Blazma-Regular Atlas_59
+  - first:
+      213: -1936248171910119650
+    second: Blazma-Regular Atlas_60
+  - first:
+      213: -3197579440623621903
+    second: Blazma-Regular Atlas_61
+  - first:
+      213: 4782664757484961005
+    second: Blazma-Regular Atlas_62
+  - first:
+      213: 7057392394459189594
+    second: Blazma-Regular Atlas_63
+  - first:
+      213: 3385285478858328976
+    second: Blazma-Regular Atlas_64
+  - first:
+      213: 1695247443186134672
+    second: Blazma-Regular Atlas_65
+  - first:
+      213: 8972320216844467332
+    second: Blazma-Regular Atlas_66
+  - first:
+      213: 1763838175025069220
+    second: Blazma-Regular Atlas_67
+  - first:
+      213: 4419367806359586636
+    second: Blazma-Regular Atlas_68
+  - first:
+      213: 3795212430919252353
+    second: Blazma-Regular Atlas_69
+  - first:
+      213: 3368853099919099524
+    second: Blazma-Regular Atlas_70
+  - first:
+      213: 567579747588578131
+    second: Blazma-Regular Atlas_71
+  - first:
+      213: 3138158934710739898
+    second: Blazma-Regular Atlas_72
+  - first:
+      213: -2236377105344820829
+    second: Blazma-Regular Atlas_73
+  - first:
+      213: -8420181693145439340
+    second: Blazma-Regular Atlas_74
+  - first:
+      213: 8380172052835791940
+    second: Blazma-Regular Atlas_75
+  - first:
+      213: -4889745992801740599
+    second: Blazma-Regular Atlas_76
+  - first:
+      213: 931498972397968548
+    second: Blazma-Regular Atlas_77
+  - first:
+      213: -2260259914842644755
+    second: Blazma-Regular Atlas_78
+  - first:
+      213: 5300685555889781494
+    second: Blazma-Regular Atlas_79
+  - first:
+      213: -585137211115401850
+    second: Blazma-Regular Atlas_80
+  - first:
+      213: -4508737896213729965
+    second: Blazma-Regular Atlas_81
+  - first:
+      213: 5219718790691728846
+    second: Blazma-Regular Atlas_82
+  - first:
+      213: 3854146892380351607
+    second: Blazma-Regular Atlas_83
+  - first:
+      213: -6662720258746908356
+    second: Blazma-Regular Atlas_84
+  - first:
+      213: -7603139659488151093
+    second: Blazma-Regular Atlas_85
+  - first:
+      213: 6509364132245300736
+    second: Blazma-Regular Atlas_86
+  - first:
+      213: 326455221809867544
+    second: Blazma-Regular Atlas_87
+  - first:
+      213: 8456384287720766652
+    second: Blazma-Regular Atlas_88
+  - first:
+      213: -1117261942269826442
+    second: Blazma-Regular Atlas_89
+  - first:
+      213: -8869799748943787676
+    second: Blazma-Regular Atlas_90
+  - first:
+      213: -9010195190603356286
+    second: Blazma-Regular Atlas_91
+  - first:
+      213: 6423204238404197108
+    second: Blazma-Regular Atlas_92
+  - first:
+      213: 8213401704962761403
+    second: Blazma-Regular Atlas_93
+  - first:
+      213: 6545594987010166065
+    second: Blazma-Regular Atlas_94
+  - first:
+      213: -265688679265832892
+    second: Blazma-Regular Atlas_95
+  - first:
+      213: -5991201469263160316
+    second: Blazma-Regular Atlas_96
+  - first:
+      213: 7278345187197965824
+    second: Blazma-Regular Atlas_97
+  - first:
+      213: 6797769550049191013
+    second: Blazma-Regular Atlas_98
+  - first:
+      213: -5618835899823178523
+    second: Blazma-Regular Atlas_99
+  - first:
+      213: -4106577410668986830
+    second: Blazma-Regular Atlas_100
+  - first:
+      213: -8492444401677750220
+    second: Blazma-Regular Atlas_101
+  - first:
+      213: 3868533470489884206
+    second: Blazma-Regular Atlas_102
+  - first:
+      213: -3274070928099896000
+    second: Blazma-Regular Atlas_103
+  - first:
+      213: -3313373763349781768
+    second: Blazma-Regular Atlas_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1803
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9600df667bac0a920800000000000000
+      internalID: 2999620240884433001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1803
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a3fe657a5c9ab30800000000000000
+      internalID: 4299184641810578004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1944
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9572227e460ab5440800000000000000
+      internalID: 4925706972694718297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1849
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b07f5d27c75580800000000000000
+      internalID: -8838376746002631639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1884
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945cad061a7b19760800000000000000
+      internalID: 7462947961272190281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1849
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eff87de82520650800000000000000
+      internalID: 6197606810670595623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1849
+        width: 38
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5d2c66d3f6f460800000000000000
+      internalID: 7275270350327077400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1955
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b476ad7726cb6b7c0800000000000000
+      internalID: -4055847283296934069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1955
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75289cc96b3a38e0800000000000000
+      internalID: -1712991382670924417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1885
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd76788ca2579fa0800000000000000
+      internalID: -5794071494611534399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1920
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b15cee1f5c7df0800000000000000
+      internalID: -181165298583226523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1839
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e8a2f96742abc0800000000000000
+      internalID: -3773375017414761418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1733
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fe47b42ff445d20800000000000000
+      internalID: 3266323531817086878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1733
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421043b228477800800000000000000
+      internalID: 610035588405400132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1850
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d1b10922e5cf60800000000000000
+      internalID: 8054092174371969162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1627
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd4daa03f79a9ab0800000000000000
+      internalID: -5000517366129537578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1627
+        width: 38
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e3e428dca3af620800000000000000
+      internalID: 2808621971947798075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1627
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625381d7ff88455d0800000000000000
+      internalID: -3074682014690429658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1627
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6be48feb8424d4e0800000000000000
+      internalID: -1957899754561803409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1698
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd872c9558c3ba00800000000000000
+      internalID: 771180231228100022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1698
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c8ec491e44ae20800000000000000
+      internalID: 3360897092496704544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1698
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5548e825126baa0800000000000000
+      internalID: -6145688003038390820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1768
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327682ae6ecbd2140800000000000000
+      internalID: 4696617686374311715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1546
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85e99cd44c68070800000000000000
+      internalID: 8108384017501280430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1546
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef10947e687e07b0800000000000000
+      internalID: -5256131299297452053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1722
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eadf54b7394bbd0800000000000000
+      internalID: -2615303325930901939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1581
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188e3127b4598e30800000000000000
+      internalID: 4506226047674386454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1511
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f4274c4bd620f0800000000000000
+      internalID: -1141984334834240029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1511
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78791f7e9e91be010800000000000000
+      internalID: 1219096616543295367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1581
+        width: 109
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac353f9fedd290d0800000000000000
+      internalID: -3417425145982796632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1511
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9636dd53585861470800000000000000
+      internalID: 8365020165068120937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1511
+        width: 38
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f41972161ac370800000000000000
+      internalID: 8343505528253904862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1511
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23a4f7ac50c39a0800000000000000
+      internalID: -6252115815419989317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1511
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf53015bc3004bb40800000000000000
+      internalID: 5454985309388289532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1511
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29838f410a89cc2b0800000000000000
+      internalID: -5562903626395404142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1511
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d59580e8fc7bd90800000000000000
+      internalID: -7081963680084435636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1511
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c104025b58fce4bc0800000000000000
+      internalID: -3796869262650359780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1511
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad2a84df2ddbab0800000000000000
+      internalID: -4990600826769450374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1289
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9e38e13281f570800000000000000
+      internalID: 8498717122686262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1289
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d87f73ecca6315b0800000000000000
+      internalID: -5398854100064438061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1324
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e778e8c51a9b50800000000000000
+      internalID: 6600612156502696931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85713e17a5f7990800000000000000
+      internalID: -7386085418676561739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be086a2c0035aab70800000000000000
+      internalID: 8911026075436744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8ca4e930b012840800000000000000
+      internalID: 5197447555130771656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6b037251f806bf0800000000000000
+      internalID: -333109051410827523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3fd33c47e14080800000000000000
+      internalID: -9204821848894783808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4dee007321d2a0800000000000000
+      internalID: -6714546605238957288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1289
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043c4efd8a055bf0800000000000000
+      internalID: -336350992196160508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1324
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04ed1179c692210800000000000000
+      internalID: 1308696562823479485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1032
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61603df5d0c7f4840800000000000000
+      internalID: 5210519690775037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1032
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f275f41bd8f69bac0800000000000000
+      internalID: -3838914553000798417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1067
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094e55b74cb239f0800000000000000
+      internalID: -490122393258407666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402570c103d1d4140800000000000000
+      internalID: 4705449278137913860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3433dcb3557f4b0800000000000000
+      internalID: -5406759112300870705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a778ad519c7f37060800000000000000
+      internalID: 6950171092989937530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a5b5d21401af8b0800000000000000
+      internalID: -5117760154433267047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29825ecc69008e290800000000000000
+      internalID: -7861032501892536174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7416f30020d450800000000000000
+      internalID: 6111419895727291928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1067
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eece8934d02cee0800000000000000
+      internalID: -1242415963221201355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1137
+        width: 38
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33bf2e3fb6e109c0800000000000000
+      internalID: -3962632488052870337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1067
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f3c4cdb801125e0800000000000000
+      internalID: -1936248171910119650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 916
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f86984b07aef93d0800000000000000
+      internalID: -3197579440623621903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 775
+        width: 73
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decbbadd1407f5240800000000000000
+      internalID: 4782664757484961005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 775
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519848bdf4e0f160800000000000000
+      internalID: 7057392394459189594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 810
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b83aef433fafe20800000000000000
+      internalID: 3385285478858328976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 810
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eaf79519ab68710800000000000000
+      internalID: 1695247443186134672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 810
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf11823b5148c70800000000000000
+      internalID: 8972320216844467332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 810
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac74a799796a7810800000000000000
+      internalID: 1763838175025069220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 810
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c474cd5ea9fb45d30800000000000000
+      internalID: 4419367806359586636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 810
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b618199d4ba430800000000000000
+      internalID: 3795212430919252353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 810
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c621ab0290ce20800000000000000
+      internalID: 3368853099919099524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 810
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b19b4f5c270e700800000000000000
+      internalID: 567579747588578131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 810
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e628aceafc8b20800000000000000
+      internalID: 3138158934710739898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 775
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90b1c1fdac6f0e0800000000000000
+      internalID: -2236377105344820829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 553
+        width: 180
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493a1d3bc51852b80800000000000000
+      internalID: -8420181693145439340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 518
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444feedf41a5c4470800000000000000
+      internalID: 8380172052835791940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c899213de1242cb0800000000000000
+      internalID: -4889745992801740599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1c6e41695dec00800000000000000
+      internalID: 931498972397968548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deedfb33591f1a0e0800000000000000
+      internalID: -2260259914842644755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fabad8cd61df8940800000000000000
+      internalID: 5300685555889781494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d8a928ecc21e7f0800000000000000
+      internalID: -585137211115401850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da6de85cebd61c0800000000000000
+      internalID: -4508737896213729965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdac9ab59a207840800000000000000
+      internalID: 5219718790691728846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 553
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca180bd2eac7530800000000000000
+      internalID: 3854146892380351607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31879ba9334983a0800000000000000
+      internalID: -6662720258746908356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 261
+        width: 144
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9368a43c83c7690800000000000000
+      internalID: -7603139659488151093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066620b038e55a50800000000000000
+      internalID: 6509364132245300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6c0b6b4dc78400800000000000000
+      internalID: 326455221809867544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7ac1b4bc1b5570800000000000000
+      internalID: 8456384287720766652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa1f9de20be70f0800000000000000
+      internalID: -1117261942269826442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694b5f5f1428e480800000000000000
+      internalID: -8869799748943787676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876723563b55f280800000000000000
+      internalID: -9010195190603356286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa9dd5293ec32950800000000000000
+      internalID: 6423204238404197108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 296
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a4ed855ddbf170800000000000000
+      internalID: 8213401704962761403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d815ce5ff96da50800000000000000
+      internalID: 6545594987010166065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 39
+        width: 180
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440748bcd85105cf0800000000000000
+      internalID: -265688679265832892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c55c6a10afadca0800000000000000
+      internalID: -5991201469263160316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006db9ba260e10560800000000000000
+      internalID: 7278345187197965824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 109
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56426afb367865e50800000000000000
+      internalID: 6797769550049191013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecb3dbd482e502b0800000000000000
+      internalID: -5618835899823178523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7e624a918207c0800000000000000
+      internalID: -4106577410668986830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303e33cfc6c42a80800000000000000
+      internalID: -8492444401677750220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26324ee1bacfa530800000000000000
+      internalID: 3868533470489884206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 39
+        width: 109
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451c2176d92092d0800000000000000
+      internalID: -3274070928099896000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blazma-Regular Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 39
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ef630e188402d0800000000000000
+      internalID: -3313373763349781768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blazma-Regular Atlas_0: 2999620240884433001
+      Blazma-Regular Atlas_1: 4299184641810578004
+      Blazma-Regular Atlas_10: -181165298583226523
+      Blazma-Regular Atlas_100: -4106577410668986830
+      Blazma-Regular Atlas_101: -8492444401677750220
+      Blazma-Regular Atlas_102: 3868533470489884206
+      Blazma-Regular Atlas_103: -3274070928099896000
+      Blazma-Regular Atlas_104: -3313373763349781768
+      Blazma-Regular Atlas_11: -3773375017414761418
+      Blazma-Regular Atlas_12: 3266323531817086878
+      Blazma-Regular Atlas_13: 610035588405400132
+      Blazma-Regular Atlas_14: 8054092174371969162
+      Blazma-Regular Atlas_15: -5000517366129537578
+      Blazma-Regular Atlas_16: 2808621971947798075
+      Blazma-Regular Atlas_17: -3074682014690429658
+      Blazma-Regular Atlas_18: -1957899754561803409
+      Blazma-Regular Atlas_19: 771180231228100022
+      Blazma-Regular Atlas_2: 4925706972694718297
+      Blazma-Regular Atlas_20: 3360897092496704544
+      Blazma-Regular Atlas_21: -6145688003038390820
+      Blazma-Regular Atlas_22: 4696617686374311715
+      Blazma-Regular Atlas_23: 8108384017501280430
+      Blazma-Regular Atlas_24: -5256131299297452053
+      Blazma-Regular Atlas_25: -2615303325930901939
+      Blazma-Regular Atlas_26: 4506226047674386454
+      Blazma-Regular Atlas_27: -1141984334834240029
+      Blazma-Regular Atlas_28: 1219096616543295367
+      Blazma-Regular Atlas_29: -3417425145982796632
+      Blazma-Regular Atlas_3: -8838376746002631639
+      Blazma-Regular Atlas_30: 8365020165068120937
+      Blazma-Regular Atlas_31: 8343505528253904862
+      Blazma-Regular Atlas_32: -6252115815419989317
+      Blazma-Regular Atlas_33: 5454985309388289532
+      Blazma-Regular Atlas_34: -5562903626395404142
+      Blazma-Regular Atlas_35: -7081963680084435636
+      Blazma-Regular Atlas_36: -3796869262650359780
+      Blazma-Regular Atlas_37: -4990600826769450374
+      Blazma-Regular Atlas_38: 8498717122686262353
+      Blazma-Regular Atlas_39: -5398854100064438061
+      Blazma-Regular Atlas_4: 7462947961272190281
+      Blazma-Regular Atlas_40: 6600612156502696931
+      Blazma-Regular Atlas_41: -7386085418676561739
+      Blazma-Regular Atlas_42: 8911026075436744939
+      Blazma-Regular Atlas_43: 5197447555130771656
+      Blazma-Regular Atlas_44: -333109051410827523
+      Blazma-Regular Atlas_45: -9204821848894783808
+      Blazma-Regular Atlas_46: -6714546605238957288
+      Blazma-Regular Atlas_47: -336350992196160508
+      Blazma-Regular Atlas_48: 1308696562823479485
+      Blazma-Regular Atlas_49: 5210519690775037462
+      Blazma-Regular Atlas_5: 6197606810670595623
+      Blazma-Regular Atlas_50: -3838914553000798417
+      Blazma-Regular Atlas_51: -490122393258407666
+      Blazma-Regular Atlas_52: 4705449278137913860
+      Blazma-Regular Atlas_53: -5406759112300870705
+      Blazma-Regular Atlas_54: 6950171092989937530
+      Blazma-Regular Atlas_55: -5117760154433267047
+      Blazma-Regular Atlas_56: -7861032501892536174
+      Blazma-Regular Atlas_57: 6111419895727291928
+      Blazma-Regular Atlas_58: -1242415963221201355
+      Blazma-Regular Atlas_59: -3962632488052870337
+      Blazma-Regular Atlas_6: 7275270350327077400
+      Blazma-Regular Atlas_60: -1936248171910119650
+      Blazma-Regular Atlas_61: -3197579440623621903
+      Blazma-Regular Atlas_62: 4782664757484961005
+      Blazma-Regular Atlas_63: 7057392394459189594
+      Blazma-Regular Atlas_64: 3385285478858328976
+      Blazma-Regular Atlas_65: 1695247443186134672
+      Blazma-Regular Atlas_66: 8972320216844467332
+      Blazma-Regular Atlas_67: 1763838175025069220
+      Blazma-Regular Atlas_68: 4419367806359586636
+      Blazma-Regular Atlas_69: 3795212430919252353
+      Blazma-Regular Atlas_7: -4055847283296934069
+      Blazma-Regular Atlas_70: 3368853099919099524
+      Blazma-Regular Atlas_71: 567579747588578131
+      Blazma-Regular Atlas_72: 3138158934710739898
+      Blazma-Regular Atlas_73: -2236377105344820829
+      Blazma-Regular Atlas_74: -8420181693145439340
+      Blazma-Regular Atlas_75: 8380172052835791940
+      Blazma-Regular Atlas_76: -4889745992801740599
+      Blazma-Regular Atlas_77: 931498972397968548
+      Blazma-Regular Atlas_78: -2260259914842644755
+      Blazma-Regular Atlas_79: 5300685555889781494
+      Blazma-Regular Atlas_8: -1712991382670924417
+      Blazma-Regular Atlas_80: -585137211115401850
+      Blazma-Regular Atlas_81: -4508737896213729965
+      Blazma-Regular Atlas_82: 5219718790691728846
+      Blazma-Regular Atlas_83: 3854146892380351607
+      Blazma-Regular Atlas_84: -6662720258746908356
+      Blazma-Regular Atlas_85: -7603139659488151093
+      Blazma-Regular Atlas_86: 6509364132245300736
+      Blazma-Regular Atlas_87: 326455221809867544
+      Blazma-Regular Atlas_88: 8456384287720766652
+      Blazma-Regular Atlas_89: -1117261942269826442
+      Blazma-Regular Atlas_9: -5794071494611534399
+      Blazma-Regular Atlas_90: -8869799748943787676
+      Blazma-Regular Atlas_91: -9010195190603356286
+      Blazma-Regular Atlas_92: 6423204238404197108
+      Blazma-Regular Atlas_93: 8213401704962761403
+      Blazma-Regular Atlas_94: 6545594987010166065
+      Blazma-Regular Atlas_95: -265688679265832892
+      Blazma-Regular Atlas_96: -5991201469263160316
+      Blazma-Regular Atlas_97: 7278345187197965824
+      Blazma-Regular Atlas_98: 6797769550049191013
+      Blazma-Regular Atlas_99: -5618835899823178523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
