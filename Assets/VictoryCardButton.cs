@@ -82,6 +82,10 @@ public class VictoryCardButton : MonoBehaviour
         /// </summary>
         public void OnVictoryCardPressed()
         {
+            if (LevelManager.instance.isClicked || LevelManager.instance.isWaiting) return;
+
+
+            LevelManager.instance.isClicked = true;
             LevelManager.instance.StartLerpUIPosition(transform.parent.GetComponent<RectTransform>(), Vector3.zero, 1f);     
             LevelManager.instance.StartLerpUIScale(transform.parent.GetComponent<RectTransform>(), new Vector3 (1.5f, 1.5f, 1.5f), 1f);  
             LevelManager.instance.StartFrontImage(transform.parent.gameObject, false, 1f);

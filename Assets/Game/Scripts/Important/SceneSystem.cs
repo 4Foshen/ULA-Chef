@@ -92,10 +92,10 @@ public class SceneSystem : MonoBehaviour
         /// </summary>
         IEnumerator StartChangingScene(PlayableDirector levelOutroDir, string sceneName)
         {
-            levelOutroDirector.enabled = true;
-            levelOutroDir.Play();
+        if (levelOutroDir != null)  levelOutroDirector.enabled = true;
+            if(levelOutroDir != null) levelOutroDir.Play();
 
-            yield return new WaitForSeconds((float)levelOutroDir.duration);
+            yield return new WaitForSeconds(levelOutroDir != null ? (float)levelOutroDir.duration : 0);
 
             UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
         }

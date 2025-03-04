@@ -80,6 +80,10 @@ public class LevelManager : MonoBehaviour
             public GameObject timerObject;
             public GameObject buttonsObject;
 
+
+    public bool isClicked;
+    public bool isWaiting = true;
+
     #endregion
 
     #region LIFE CYCLE METHODS
@@ -192,8 +196,8 @@ public class LevelManager : MonoBehaviour
         IEnumerator VictoryCoroutine()
         {
             currentLevelState = LevelState.Victory;      
-            victoryCards = new GameObject[4];
-            pos = new Vector3[4];
+            victoryCards = new GameObject[5];
+            pos = new Vector3[5];
             
             yield return new WaitForSeconds(1f);
   
@@ -210,7 +214,7 @@ public class LevelManager : MonoBehaviour
                 victoryCards[i].name = victoryCardIcons[i].ToString();
 
                 RectTransform rectTransform = victoryCards[i].GetComponent<RectTransform>();
-                rectTransform.transform.position = new Vector3 ((i + 1) * 4 - 10, 0f, 0f);
+                rectTransform.transform.position = new Vector3 ((i + 0.5f) * 4 - 10, 0f, 0f);
                 rectTransform.transform.localScale = new Vector3 (0.8f, 0.8f, 0.8f);
             
                 foreach (Transform child in victoryCards[i].transform)
@@ -279,13 +283,20 @@ public class LevelManager : MonoBehaviour
             {                
                 foreach (Transform child in victoryCards[i].transform)
                 {
+                    
                     if (child.gameObject.name == "Front - Image")
                     {
                         child.gameObject.GetComponent<Button>().interactable = true;
                     }
+                if (child.gameObject.name == "Icon - Button")
+                {
+                    child.transform.localScale = new Vector3(-0.8f, 0.8f, -0.8f);
                 }
-            }   
-        
+            }
+            }
+
+            isWaiting = false;
+
             /*
             GameObject[] victoryCardsCopy = new GameObject[4];
             victoryCardsCopy = victoryCards;
@@ -297,18 +308,18 @@ public class LevelManager : MonoBehaviour
             }
             */
 
-            /*
-            currentLevelState = LevelState.Victory;
-            victoryScreen.SetActive(true);
-            //StopAllCoroutines();
+        /*
+        currentLevelState = LevelState.Victory;
+        victoryScreen.SetActive(true);
+        //StopAllCoroutines();
 
-            CanvasGroup canvasGroup = victoryScreen.GetComponent<CanvasGroup>();
-            canvasGroup.alpha = 0f; 
-            LeanTween.alphaCanvas(canvasGroup, 1f, 1f).setEase(LeanTweenType.easeOutQuad);
-            
-            victoryScreen.transform.position = new Vector3 (0, 10, 0);
-            LeanTween.move(victoryScreen, new Vector3(0, 0, 0), 1f).setEase(LeanTweenType.easeOutQuad);
-            */
+        CanvasGroup canvasGroup = victoryScreen.GetComponent<CanvasGroup>();
+        canvasGroup.alpha = 0f; 
+        LeanTween.alphaCanvas(canvasGroup, 1f, 1f).setEase(LeanTweenType.easeOutQuad);
+
+        victoryScreen.transform.position = new Vector3 (0, 10, 0);
+        LeanTween.move(victoryScreen, new Vector3(0, 0, 0), 1f).setEase(LeanTweenType.easeOutQuad);
+        */
 
             if (levelIndex > GameManager.instance.numberOfFinishedLevels)
             {
@@ -468,12 +479,12 @@ public class LevelManager : MonoBehaviour
             defeatScreen.SetActive(true);
             //StopAllCoroutines();
 
-            CanvasGroup canvasGroup = defeatScreen.GetComponent<CanvasGroup>();
-            canvasGroup.alpha = 0f; 
-            LeanTween.alphaCanvas(canvasGroup, 1f, 1f).setEase(LeanTweenType.easeOutQuad);
+            //CanvasGroup canvasGroup = defeatScreen.GetComponent<CanvasGroup>();
+            //canvasGroup.alpha = 0f; 
+            //LeanTween.alphaCanvas(canvasGroup, 1f, 1f).setEase(LeanTweenType.easeOutQuad);
             
-            defeatScreen.transform.position = new Vector3 (0, 10, 0);
-            LeanTween.move(defeatScreen, new Vector3(0, 0, 0), 1f).setEase(LeanTweenType.easeOutQuad);
+            //defeatScreen.transform.position = new Vector3 (0, 10, 0);
+            //LeanTween.move(defeatScreen, new Vector3(0, 0, 0), 1f).setEase(LeanTweenType.easeOutQuad);
         }
 
         /// <summary>
