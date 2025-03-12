@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using static MyGame.Utils;
 
@@ -19,6 +20,9 @@ public class GameManager : MonoBehaviour
 
         [Space(20)] [Header("___")]
         public string emptySpace;
+
+        public TextMeshProUGUI Tmp;
+        private TelegramWebApp WebApp = new TelegramWebApp();
 
     #endregion
 
@@ -60,6 +64,8 @@ public class GameManager : MonoBehaviour
         /// </summary>
         void Start()
         {
+            WebApp.RequestUserData();
+            Tmp.text = WebApp.userData.first_name;
             numberOfFinishedLevels = PlayerPrefs.GetInt("Finished Levels");
         }
 
@@ -92,6 +98,7 @@ public class GameManager : MonoBehaviour
         {
             PlayerPrefs.DeleteAll();
         }
+        
 
     #endregion
 
