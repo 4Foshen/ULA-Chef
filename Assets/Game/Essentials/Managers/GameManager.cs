@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 using static MyGame.Utils;
@@ -15,6 +16,8 @@ public class GameManager : MonoBehaviour
 
         [Space(20)] [Header("CUSTOM TITLE")]
         public bool isGamePlayed;
+
+        public int[] numbersOfFinishedLevels;
         public int numberOfFinishedLevels;
         public static GameManager instance;
 
@@ -23,6 +26,10 @@ public class GameManager : MonoBehaviour
 
         public TextMeshProUGUI Tmp;
         private TelegramWebApp WebApp = new TelegramWebApp();
+        
+        public APIClient apiClient;
+
+        public int UserTelegramID;
 
     #endregion
 
@@ -46,16 +53,7 @@ public class GameManager : MonoBehaviour
             }
 
             isGamePlayed = PlayerPrefs.GetInt("IsGamePlayed", 0) == 1; 
-
-            if (isGamePlayed)
-            {
-                SystemComment("Not First Time Entering The Game!");
-            }
-            else
-            {
-                SystemComment("First Time Entering The Game!");
-            }
-
+            
             PlayerPrefs.SetInt("IsGamePlayed", 1);
         }
 
@@ -64,9 +62,42 @@ public class GameManager : MonoBehaviour
         /// </summary>
         void Start()
         {
+            // WebApp.RequestUserData();
+            // Tmp.text = WebApp.userData.first_name;
+            
+            if (apiClient == null)
+            {
+                apiClient = GetComponent<APIClient>(); // Присваиваем APIClient
+            }
+
+#if UNITY_EDITOR
+
+            UserTelegramID = 1234567;
+#else
             WebApp.RequestUserData();
-            Tmp.text = WebApp.userData.first_name;
-            numberOfFinishedLevels = PlayerPrefs.GetInt("Finished Levels");
+            UserTelegramID = WebApp.userData.id;
+#endif
+            StartCoroutine(apiClient.GetUser(UserTelegramID));
+            StartCoroutine(apiClient.GetLevels(UserTelegramID, ProcessLevels));
+        }
+        
+        // Метод для обработки полученного массива
+        private void ProcessLevels(int[] levels)
+        {
+            if (levels != null && levels.Length > 0)
+            {
+                numbersOfFinishedLevels = levels;
+            }
+            else
+            {
+                Debug.LogWarning("Нет данных о пройденных уровнях.");
+            }
+        }
+        
+
+        void GetFinishedLevels()
+        {
+            
         }
 
         /// <summary>

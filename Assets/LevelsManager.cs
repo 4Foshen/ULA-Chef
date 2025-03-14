@@ -41,15 +41,24 @@ public class LevelsManager : MonoBehaviour
         /// </summary>
         void Start()
         {
-            for (int i = 0; i < levels.Length; i++)
+            foreach (var i in GameManager.instance.numbersOfFinishedLevels)
             {
-                if (i + 1 <= GameManager.instance.numberOfFinishedLevels)
+                if (i-1 <= levels.Length + 1)
                 {
-                    CanvasGroup canvasGroup = levels[i].GetComponent<CanvasGroup>();
+                    CanvasGroup canvasGroup = levels[i-1].GetComponent<CanvasGroup>();
                     canvasGroup.alpha = 0.5f;
                     canvasGroup.blocksRaycasts = false;
                 }
             }
+            // for (int i = 0; i < levels.Length; i++)
+            // {
+            //     if (i + 1 <= GameManager.instance.numberOfFinishedLevels)
+            //     {
+            //         CanvasGroup canvasGroup = levels[i].GetComponent<CanvasGroup>();
+            //         canvasGroup.alpha = 0.5f;
+            //         canvasGroup.blocksRaycasts = false;
+            //     }
+            // }
         }
 
         /// <summary>

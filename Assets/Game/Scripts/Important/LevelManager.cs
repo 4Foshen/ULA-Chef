@@ -297,34 +297,10 @@ public class LevelManager : MonoBehaviour
 
             isWaiting = false;
 
-            /*
-            GameObject[] victoryCardsCopy = new GameObject[4];
-            victoryCardsCopy = victoryCards;
-            MyGame.Utils.ShuffleArray(victoryCardsCopy);
-
-            for (int i = 0; i < victoryCards.Length; i++)
-            {
-                //victoryCards[i] = victoryCardsCopy[i];
-            }
-            */
-
-        /*
-        currentLevelState = LevelState.Victory;
-        victoryScreen.SetActive(true);
-        //StopAllCoroutines();
-
-        CanvasGroup canvasGroup = victoryScreen.GetComponent<CanvasGroup>();
-        canvasGroup.alpha = 0f; 
-        LeanTween.alphaCanvas(canvasGroup, 1f, 1f).setEase(LeanTweenType.easeOutQuad);
-
-        victoryScreen.transform.position = new Vector3 (0, 10, 0);
-        LeanTween.move(victoryScreen, new Vector3(0, 0, 0), 1f).setEase(LeanTweenType.easeOutQuad);
-        */
-
             if (levelIndex > GameManager.instance.numberOfFinishedLevels)
             {
                 GameManager.instance.numberOfFinishedLevels = levelIndex;
-                PlayerPrefs.SetInt("Finished Levels", GameManager.instance.numberOfFinishedLevels);
+                StartCoroutine(GameManager.instance.apiClient.FinishLevel(GameManager.instance.UserTelegramID, levelIndex, "123"));
             }
         }
 

@@ -6,10 +6,8 @@ using UnityEngine.Networking;
 
 public class APIClient : MonoBehaviour
 {
-    // Замените на URL вашего API (например, "http://localhost:8000" или доменное имя сервера)
-    private string baseUrl = "http://91.218.140.103:8081/api/v1";
-
-    // Получение пользователя по telegram_id
+    private string baseUrl = "https://untitled-devs.ru/api/v1";
+    
     public IEnumerator GetUser(int telegramId)
     {
         string url = $"{baseUrl}/user/{telegramId}";
@@ -27,9 +25,8 @@ public class APIClient : MonoBehaviour
             }
         }
     }
-
-    // Завершение уровня: level_id, telegram_id, prize передаются в query-параметрах
-    public IEnumerator FinishLevel(int levelId, long telegramId, string prize)
+    
+    public IEnumerator FinishLevel(long telegramId, int levelId, string prize)
     {
         // Для безопасного кодирования строки prize используем UnityWebRequest.EscapeURL
         string url =

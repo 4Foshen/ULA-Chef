@@ -34,7 +34,7 @@ public class TelegramWebApp : MonoBehaviour
 [System.Serializable]
 public class TelegramUserData
 {
-    public long id;
+    public int id;
     public string first_name;
     public string last_name;
     public string language_code;
