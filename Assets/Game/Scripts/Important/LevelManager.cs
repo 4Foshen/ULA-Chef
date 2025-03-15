@@ -297,11 +297,10 @@ public class LevelManager : MonoBehaviour
 
             isWaiting = false;
 
-            if (levelIndex > GameManager.instance.numberOfFinishedLevels)
-            {
-                GameManager.instance.numberOfFinishedLevels = levelIndex;
-                StartCoroutine(GameManager.instance.apiClient.FinishLevel(GameManager.instance.UserTelegramID, levelIndex, "123"));
-            }
+
+            GameManager.instance.numberOfFinishedLevels = levelIndex;
+            StartCoroutine(GameManager.instance.apiClient.FinishLevel(GameManager.instance.UserTelegramID, levelIndex, "123"));
+            
         }
 
         public void StartLerpUIPosition(RectTransform rectTransform, Vector3 endPosition, float lerpDuration)

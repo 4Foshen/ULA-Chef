@@ -78,6 +78,27 @@ public class APIClient : MonoBehaviour
             }
         }
     }
+    
+    public IEnumerator AddPrize(int telegramId, string prize)
+    {
+        // Формируем URL с query-параметром
+        string url = $"{baseUrl}/prizes/{telegramId}?prize={UnityWebRequest.EscapeURL(prize)}";
+    
+        // Если данные не передаются в теле, можно отправить пустой POST-запрос.
+        using (UnityWebRequest request = UnityWebRequest.PostWwwForm(url, ""))
+        {
+            yield return request.SendWebRequest();
+
+            if (request.result == UnityWebRequest.Result.Success)
+            {
+                Debug.Log("AddPrize: " + request.downloadHandler.text);
+            }
+            else
+            {
+                Debug.LogError("Error AddPrize: " + request.error);
+            }
+        }
+    }
 }
 
 

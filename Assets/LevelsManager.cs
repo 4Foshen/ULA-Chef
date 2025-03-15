@@ -39,28 +39,35 @@ public class LevelsManager : MonoBehaviour
         /// Called before the first frame update.
         /// Useful for initialization once the game starts.
         /// </summary>
+        /// 
         void Start()
         {
-            foreach (var i in GameManager.instance.numbersOfFinishedLevels)
-            {
-                if (i-1 <= levels.Length + 1)
-                {
-                    CanvasGroup canvasGroup = levels[i-1].GetComponent<CanvasGroup>();
-                    canvasGroup.alpha = 0.5f;
-                    canvasGroup.blocksRaycasts = false;
-                }
-            }
-            // for (int i = 0; i < levels.Length; i++)
-            // {
-            //     if (i + 1 <= GameManager.instance.numberOfFinishedLevels)
-            //     {
-            //         CanvasGroup canvasGroup = levels[i].GetComponent<CanvasGroup>();
-            //         canvasGroup.alpha = 0.5f;
-            //         canvasGroup.blocksRaycasts = false;
-            //     }
-            // }
+            StartCoroutine(GameManager.instance.apiClient.GetLevels(GameManager.instance.UserTelegramID, ProcessLevels));
+            
         }
 
+        private void ProcessLevels(int[] numbersOfFinishedLevels)
+        {
+            if (numbersOfFinishedLevels != null && numbersOfFinishedLevels.Length > 0)
+            {
+                
+                foreach (var i in numbersOfFinishedLevels)
+                {
+                    if (i-1 <= this.levels.Length + 1)
+                    {
+                        CanvasGroup canvasGroup = this.levels[i-1].GetComponent<CanvasGroup>();
+                        canvasGroup.alpha = 0.5f;
+                        canvasGroup.blocksRaycasts = false;
+                    }
+                }
+                
+            }
+            else
+            {
+                Debug.LogWarning("Нет данных о пройденных уровнях.");
+            }
+        }
+        
         /// <summary>
         /// Called once per frame.
         /// Use for logic that needs to run every frame, such as user input or animations.

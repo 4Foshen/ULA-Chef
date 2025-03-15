@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
         public string emptySpace;
 
         public TextMeshProUGUI Tmp;
-        private TelegramWebApp WebApp = new TelegramWebApp();
+        public TelegramWebApp WebApp = new TelegramWebApp();
         
         public APIClient apiClient;
 
@@ -78,6 +78,11 @@ public class GameManager : MonoBehaviour
             UserTelegramID = WebApp.userData.id;
 #endif
             StartCoroutine(apiClient.GetUser(UserTelegramID));
+            UpdateLevels();
+        }
+
+        public void UpdateLevels()
+        {
             StartCoroutine(apiClient.GetLevels(UserTelegramID, ProcessLevels));
         }
         

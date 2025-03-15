@@ -7,6 +7,9 @@ public class TelegramWebApp : MonoBehaviour
     [DllImport("__Internal")]
     private static extern string Telegram_GetUserData();
     
+    [DllImport("__Internal")]
+    private static extern void Telegram_SendMessage(string message);
+    
     public TelegramUserData userData;
 
     public void RequestUserData()
@@ -28,6 +31,11 @@ public class TelegramWebApp : MonoBehaviour
         }
     }
     
+    public void SendMessageToBot(string message)
+    {
+        Debug.Log("Sending message to bot: " + message);
+        Telegram_SendMessage(message);
+    }
    
 }
 
