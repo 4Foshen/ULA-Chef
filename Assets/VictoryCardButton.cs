@@ -38,7 +38,7 @@ public class VictoryCardButton : MonoBehaviour
             LevelManager.instance.StartLerpUIScale(transform.parent.GetComponent<RectTransform>(), new Vector3 (1.5f, 1.5f, 1.5f), 1f);  
             LevelManager.instance.StartFrontImage(transform.parent.gameObject, false, 1f);
 
-            LevelManager.instance.StartLerpUIPosition(LevelManager.instance.levelsObject.GetComponent<RectTransform>(), new Vector3 (-40f, -460f, 0f), 2.5f);
+            LevelManager.instance.StartLerpUIPosition(LevelManager.instance.levelsObject.GetComponent<RectTransform>(), new Vector3 (-40f, -360f, 0f), 2.5f);
             
             transform.parent.transform.SetAsLastSibling();
             
